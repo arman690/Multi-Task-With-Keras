@@ -1,4 +1,3 @@
-بله، در اینجا یک نمونه `README.md` برای پروژه‌ی شما آمده است:
 # Multi-Task Model with Keras
 
 This project demonstrates how to build and train a multi-task model using Keras to classify handwritten digits and detect a randomly assigned color channel for each image. The model is built on the MNIST dataset, which consists of grayscale images of handwritten digits (0-9).
