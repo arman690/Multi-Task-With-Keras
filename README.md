@@ -46,4 +46,3 @@ This project demonstrates how to build and train a multi-task model using Keras 
   
 The notebook also includes a grid of test images, displaying ground truth (GT) and predicted (Pr) values, allowing a quick assessment of model accuracy.
 
-این `README` تمام قسمت‌های پروژه را پوشش می‌دهد و آماده‌ی قرار دادن در گیت‌هاب است.
